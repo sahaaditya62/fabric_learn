@@ -16,7 +16,7 @@ Pre-requisites software (Only for Mac)
 
 0: Learn Fabric
 
-    git clone https://github.com/dparmar1/learnfabric.git
+    git clone https://github.com/sahaaditya62/fabric_learn.git
 
 1: Fabric
 
